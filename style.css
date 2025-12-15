@@ -54,7 +54,7 @@ body {
     overflow-y: auto;
     padding: 5px; /* Reduced from 10px */
     border: 1px dashed #ccc;
-    background-image: url("C:/Users/trevo/OneDrive/Documents/GitHub/Buddhism/R.jpg");
+    background-image: url("R.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -131,7 +131,7 @@ footer {
     width: 100%; /* Take full width of sidebar */
     padding: 5px; /* Reduced from 10px */
     border: 1px solid #ccc;
-    background-image: url("C:/Users/trevo/OneDrive/Documents/GitHub/Buddhism/Yellow.jpg");
+    background-image: url("Yellow.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
