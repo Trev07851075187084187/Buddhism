@@ -82,6 +82,10 @@ p {
     color: #555;
 }
 
+.works-cited {
+    color: blue;
+}
+
 .drop-zone.hover {
     background-color: #e2f2ff;
 }
